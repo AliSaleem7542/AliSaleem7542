@@ -14,7 +14,7 @@
 ## 📌 Featured Projects  
 🔹 [Smart Inventory Manager (Web App)](https://github.com/AliSaleem7542/Smart-Inventory-Manager)  
 🔹 [3 IN 1  Game Project (C++)](https://github.com/AliSaleem7542/3-in-1-Console-Game)  
-🔹 [Hostel Management System (C++)](https://github.com/your-repo-link)  
+🔹 [Hostel Management System (C++)](https://github.com/AliSaleem7542/Hostel-Management-System)  
 ---
 ## 📊 GitHub Stats  
 ![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliSaleem7542&show_icons=true&theme=tokyonight)  
