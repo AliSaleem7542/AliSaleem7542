@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Ali Saleem  
 🎓 **Computer Science Undergraduate @ UET Lahore (CS'29)**  
 💻 **Software & Web Developer | Skilled in C++, Python, JavaScript, ReactJS**  
-🚀 Exploring **Machine Learning, User Experience Design, Graphic Design & Video Editing**  
+🚀 Exploring **Machine Learning,Artificial Intelligence, Robotics, and Real-Time Systems**  
 🌱 Passionate about building **scalable software, web apps & creative digital solutions**  
 ---
 ## 🚀 Skills & Tools  
 - **Programming Languages:** C++, Python, JavaScript, HTML, CSS  
 - **Frameworks & Libraries:** ReactJS, Bootstrap  
 - **Development Areas:** Software Development, Web Development, Application Development  
-- **Design & Creativity:** User Experience Design (UED), Web Design, Graphic Design, Video Editing  
+- **Design & Creativity:** User Experience Design (UED), Web Design, UI/UX Design, Graphic Design 
 - **Other Interests:** Machine Learning, Open Source Contributions  
 ---
 ## 📌 Featured Projects  
