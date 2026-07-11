@@ -16,7 +16,7 @@ Building software that bridges hardware and intelligence.
 
 I'm a Computer Science undergraduate at **UET Lahore** with a strong interest in **Embedded Systems**, **Robotics**, **Artificial Intelligence**, and **Full-Stack Development**.
 
-Currently, I'm gaining hands-on industry experience as a **Software Engineering Intern at SSL Robotics**, where I work on embedded firmware for robotic systems using STM32 microcontrollers and C/C++.
+Currently, I'm gaining hands-on industry experience as a **Software Engineering Intern**, where I work on embedded firmware for robotic systems using STM32 microcontrollers and C/C++.
 
 I enjoy designing reliable software for both embedded hardware and modern web applications, and I'm continuously expanding my knowledge through real-world projects, technical books, and research papers.
 
