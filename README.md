@@ -1,148 +1,165 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b4e,50:6a3093,100:a044ff&height=220&section=header&text=Ali%20Saleem&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%28ReactJS%29%20%7C%20Game%20Developer%20%7C%20C%2B%2B%20%26%20C%23&descAlignY=58&descSize=18" width="100%"/>
+# 👋 Hi, I'm Ali Saleem
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=A044FF&center=true&vCenter=true&width=900&lines=Building+dynamic+web+apps+with+ReactJS;Crafting+games+with+C%2B%2B+%26+C%23;Exploring+Machine+Learning+%26+AI;CS+Undergraduate+%40+UET+Lahore" alt="Typing SVG" /></a>
+### Computer Science Undergraduate • Embedded Systems • Robotics • Full-Stack Developer
 
-<br/>
-
-📧 [alisaleem7542@gmail.com](mailto:alisaleem7542@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/ali-saleem7542/) | 💻 [GitHub](https://github.com/AliSaleem7542)
+<p>
+Building software that bridges hardware and intelligence.
+</p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+# 🚀 About Me
 
-```javascript
-const aliSaleem = {
-    role: "Frontend Developer (ReactJS) | Game Developer | ML Enthusiast",
-    university: "University of Engineering and Technology, Lahore",
-    degree: "BS Computer Science (2025 - 2029)",
-    stack: ["ReactJS", "C++", "C#", "JavaScript", "Python", "HTML", "CSS"],
-    passionate_about: [
-        "Creating dynamic web applications",
-        "Building games and intelligent systems",
-        "Solving real-world problems through technology"
-    ],
-    currentlyLookingFor: "Collaboration & learning opportunities in tech"
-};
-```
+I'm a Computer Science undergraduate at **UET Lahore** with a strong interest in **Embedded Systems**, **Robotics**, **Artificial Intelligence**, and **Full-Stack Development**.
 
-- 🎮 I build **interactive applications and games** using C++ and C#, alongside dynamic frontends with ReactJS.
-- 🤖 Exploring **Machine Learning & AI** solutions, with a foundation from Duke University's Introduction to Machine Learning.
-- 🌐 Active in the tech and creative community — Campus Ambassador roles, hackathons, and design work.
-- 🎨 Hobbies: video editing, graphic designing, and content creation.
+Currently, I'm gaining hands-on industry experience as a **Software Engineering Intern at SSL Robotics**, where I work on embedded firmware for robotic systems using STM32 microcontrollers and C/C++.
+
+I enjoy designing reliable software for both embedded hardware and modern web applications, and I'm continuously expanding my knowledge through real-world projects, technical books, and research papers.
+
+My long-term goal is to contribute to intelligent robotic systems through engineering, research, and innovation.
 
 ---
 
-### 🚀 Experience
+# 💻 Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Languages
 
-**🌐 Cireta — Campus Ambassador**
-*Jan 2026 – May 2026*
-
-- Promoted Cireta's vision in the real-world assets (RWA) ecosystem
-- Drove community engagement and brand awareness across social platforms
-- Supported outreach initiatives and ambassador-led campaigns
-
-</td>
-<td width="50%" valign="top">
-
-**🧠 AI Community of Pakistan — Campus Ambassador**
-*Jan 2026 – May 2026*
-
-- Represented the IUPC Coding Competition on campus
-- Coordinated outreach and communication between participants & organizers
-- Built leadership & community-building skills in a national-level tech initiative
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**💻 Elevvo Pathways — Front-End Web Dev Intern**
-*Aug 2025 – Sep 2025 · Cairo, Egypt (Remote)*
-
-- Built responsive, user-friendly web pages with HTML, CSS, and JavaScript
-- Learned layout structuring, styling, and interactivity best practices
-- Strengthened understanding of modern web technologies
-
-</td>
-<td width="50%" valign="top">
-
-**🎨 Apexcify Technologies — Graphic Design Intern**
-*Aug 2025 – Sep 2025*
-
-- Worked on creative design projects and assigned tasks
-- Gained hands-on experience with design tools
-- Demonstrated consistency and teamwork throughout the program
-
-</td>
-</tr>
-</table>
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js" />
+</p>
 
 ---
 
-### ⚡ Tech Stack
+## Embedded Systems
 
-**Frontend:** ReactJS · JavaScript · HTML5 · CSS3
+- STM32
+- Embedded C/C++
+- Firmware Development
+- OpenOCD
+- Hardware Debugging
+- Embedded Software
 
-**Languages:** C++ · C# · Python
-
-**Focus Areas:** Game Development · Machine Learning & AI · UI/UX
+<p>
+<img src="https://skillicons.dev/icons?i=git,linux,vscode" />
+</p>
 
 ---
 
-### 📈 GitHub Metrics
+## Full-Stack Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,postgresql,html,css" />
+</p>
+
+---
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Embedded Systems
+- Robotics Software
+- Firmware Architecture
+- Artificial Intelligence
+- Computer Vision
+- ROS 2 (Next)
+
+---
+
+# 🎯 Current Focus
+
+- Embedded Firmware Development
+- Robotics Software
+- Full-Stack Applications
+- AI for Robotics
+- Open Source Contributions
+
+---
+
+# 📂 Featured Projects
+
+## 🤖 Embedded Systems
+
+- STM32 Firmware
+- Robotics Control Boards
+- Embedded Drivers
+
+## 🌐 Full-Stack
+
+- ERP Management System
+- React Applications
+- REST APIs
+
+## 🧠 Artificial Intelligence
+
+- Machine Learning Projects
+- AI-powered Applications
+- Robotics + AI (Upcoming)
+
+---
+
+# 🎯 2026 Goals
+
+- Complete my Robotics Internship
+- Build advanced STM32 projects
+- Learn ROS 2
+- Build AI-powered robotic applications
+- Contribute to Open Source
+- Publish technical articles
+- Prepare for graduate research in Robotics & AI
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ali-saleem7542/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AliSaleem7542&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliSaleem7542&layout=compact&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AliSaleem7542&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AliSaleem7542&theme=react-dark&hide_border=true" width="100%"/>
+### ⚡ *Engineering software for intelligent machines.*
 
 </div>
-
----
-
-### 🎓 Education & Certifications
-
-- **BS Computer Science** — University of Engineering and Technology, Lahore (2025 – 2029)
-- 📜 Introduction to Machine Learning — Duke University
-- 📜 The Success Map Bootcamp — Personal & Professional Development
-- 📜 How to Create a High-Quality Flyer in Adobe Photoshop
-- 🏅 Ambassador Appreciation Certificate — Media Coverage & Event Support
-
----
-
-### 🌱 Currently Exploring
-
-- 🎮 Advanced game development with C++ / C#
-- 🤖 Machine learning fundamentals & practical AI applications
-- ⚛️ Deeper ReactJS patterns & state management
-- 🌍 IUPC 2026 & ByteCamp community initiatives
-
----
-
-### 🤝 Let's Connect
-
-<div align="center">
-
-📧 [alisaleem7542@gmail.com](mailto:alisaleem7542@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/ali-saleem7542/) | 💻 [GitHub](https://github.com/AliSaleem7542)
-
-</div>
-
-<div align="center">
-
-*"Every problem is just a game waiting to be solved — one line of code at a time."*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a044ff,50:6a3093,100:2d1b4e&height=100&section=footer" width="100%"/>
